@@ -6,6 +6,7 @@ def hello
 end 
 
 def raise_hand
+  i = 0 
   
 
 end 
