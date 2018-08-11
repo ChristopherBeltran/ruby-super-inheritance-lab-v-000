@@ -9,6 +9,7 @@ def raise_hand
   i = 0 
   loop do 
     i += 1
+    super
     
 
 end 
