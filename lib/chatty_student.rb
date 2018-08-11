@@ -10,6 +10,8 @@ def raise_hand
   loop do 
     i += 1
     super
-    
+    break if i > 10
+  end 
+end 
 
 end 
